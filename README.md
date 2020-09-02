@@ -39,7 +39,10 @@
   <br/>
   Also on discord as <code>_illegal_</code>
 </p>
-  
+
+<p>
+  🌱 I’m currently learning React Native
+</p>
 
 
 
