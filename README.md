@@ -40,11 +40,6 @@
   Also on discord as <code>_illegal_</code>
 </p>
 
-<p>
-  🌱 I’m currently learning React Native
-</p>
-
-
 
 <!--
 **K-Kumar-01/K-Kumar-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
