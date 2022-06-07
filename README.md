@@ -30,6 +30,14 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>&nbsp;&nbsp;
 </p>
 
+<h3>Blogs</h3>
+<p>
+  <ol>
+    <li><a href="https://accordproject.org/news/gsoc-2021-ciceromark-ooxml-roundtrip-conversion/">Google Summer Of Code 2021</a></li>
+    <li><a href="https://vitess.io/blog/2022-06-01-lfx-experience/">LFX 2022 Journey</a></li>
+  </ol>
+</p>
+
 ## Let's Connect :handshake:
 <p align='center'>
   <a href="https://www.github.com/K-Kumar-01/"><img src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
