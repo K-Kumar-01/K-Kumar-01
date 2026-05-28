@@ -1,6 +1,8 @@
 ### Hi there 👋
 
+  <!--
   [![Kushal's github stats](https://github-readme-stats.vercel.app/api?username=K-Kumar-01)](https://github.com/anuraghazra/github-readme-stats)
+  -->
 
 
 <h3 align="center"> 🙋🏽‍♂️About Me </h3>
