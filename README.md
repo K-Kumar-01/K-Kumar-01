@@ -7,7 +7,7 @@
 
 <h3 align="center"> 🙋🏽‍♂️About Me </h3>
 <p align="center">
-   I am a fullstack web developer using MERN stack as my main tech stack for development. Currently a sophomore, I like exploring new technologies and try to use the existing ones to build something useful. I have also tried hands in some other development fields like app development and tried hands on Unreal Engine as well. On the other side of this developer you can find someone who likes to play games and has interest in football :soccer:
+   I am a fullstack web developer using MERN stack as my main tech stack for development. I like exploring new technologies and try to use the existing ones to build something useful. I have also tried hands in some other development fields like app development and tried hands on Unreal Engine as well. On the other side of this developer you can find someone who likes to play games and has interest in football :soccer:
 </p>
 
 
@@ -23,12 +23,12 @@
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>&nbsp;&nbsp;
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&nbsp;&nbsp;
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>&nbsp;&nbsp;
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;&nbsp;
   
   </p>
   <p align="center">
   The following list contains langugaes or technologies i have worked with but not used much <br/><br/>
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>&nbsp;&nbsp;
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;&nbsp;
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>&nbsp;&nbsp;
 </p>
 
